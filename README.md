@@ -3,7 +3,7 @@
 Essa solução foi desenvolvida utilizando puramente a linguagem de programação Python com algumas bibliotecas, o principal objetivo desse projeto era desenvolver uma solução de um jogo da velha que nunca perdesse, é minha solução está um pouco incompleta, porém funcional em algumas partes.
   
 # Configuração
-## Máquina Virtual
+## Ambiente Virtual
 Caso queira executar o projeto separadamente da onde fica seus documentos python é preciso cria uma máquina virtual e para isso precisa da os seguintes passos:
 <br>
 1º Instalar o env em sua máquina para isso utilize o comando :
